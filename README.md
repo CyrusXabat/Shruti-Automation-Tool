@@ -9,3 +9,10 @@ Project Automation
   After gathering urls it starts fuzzing for the vulnerabilities with the help of cves and some signatures.  
   
   Also it finds the information about hidden directories by dictionary based attack.
+
+
+#Use
+./Shru.sh
+
+then input url  ( like http://me.yehigo.com/)
+
