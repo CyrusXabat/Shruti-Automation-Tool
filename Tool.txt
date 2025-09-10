@@ -1,0 +1,25 @@
+Tools 
+Automation  Crawler
+
+Asset Finder
+Subfinder
+Amass
+Findomain
+Crt.sh
+web-archive
+Dns-buffer
+Threat-crowd
+hacker-target
+cert-spotter
+anubis
+virustotal
+alien-vault
+urlscan
+theat-miner
+entrust
+riddler
+Dns-dumpster
+rapid dns
+chaos
+Nmap
+qs replace.
