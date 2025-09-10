@@ -14,5 +14,5 @@ Project Automation
 #Use
 ./Shru.sh
 
-then input url  ( like http://me.yehigo.com/)
+then input url  ( like http://xyz.com/)
 
